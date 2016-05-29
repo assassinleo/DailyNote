@@ -2,7 +2,6 @@
 
 ### Daily Note for reference
 ===========
-***
 2016.5.29
 
 * 1.pip install packages from local
@@ -15,7 +14,8 @@ ref: https://pip.pypa.io/en/stable/user_guide/#installing-from-local-packages
 
 * 2.virtualenv usage:
 
-```pip install virtualenv
+```Bash
+pip install virtualenv
 virtualenv --no-site-packages venv
 cd venv
 source venv/bin/activate
