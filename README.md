@@ -23,3 +23,61 @@ deactivate
 ```
 
 ref: http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001432712108300322c61f256c74803b43bfd65c6f8d0d0000
+
+2016.6.18
+1.tmux 
+ref: www.wtoutiao.com/p/g6dWTR.html
+2.travis ci
+ref: https://travis-ci.com/
+
+2016.6.19
+1.redis connection pool
+ref: http://blog.csdn.net/chosen0ne/article/details/7319807
+
+pool = redis.ConnectionPool(host='127.0.0.1', port=9212)
+edis pipeline机制，可以在一次请求中执行多个命令，这样避免了多次的往返时延。
+pool = redis.ConnectionPool(host='127.0.0.1', port=9212)  
+r = redis.Redis(connection_pool=pool)  
+pipe = r.pipeline()  
+pipe.set('one', 'first')  
+pipe.set('two', 'second')  
+pipe.execute()  
+  
+pipe.set('one'. 'first').rpush('list', 'hello').rpush('list', 'world').execute()
+
+2.supervisor with redis
+ref: https://gist.github.com/solar/3898630
+
+redis.ini:
+[program:redis]
+command=/usr/local/bin/redis-server /etc/redis.conf
+autostart=true
+autorestart=true
+user=root
+stdout_logfile=/var/log/redis/stdout.log
+stderr_logfile=/var/log/redis/stderr.log
+
+install.sh:
+#!/bin/sh
+
+version="2.6.3"
+priority="20603"
+
+sudo mkdir -p /var/redis /var/log/redis
+curl -sL http://redis.googlecode.com/files/redis-${version}.tar.gz | tar zx
+cd redis-${version}/
+make
+sudo make PREFIX=/usr/local/redis/${version} install
+cd ../
+sudo alternatives --install /usr/local/bin/redis-server redis /usr/local/redis/${version}/bin/redis-server ${priority} \
+  --slave /usr/local/bin/redis-benchmark redis-benchmark /usr/local/redis/${version}/bin/redis-benchmark \
+  --slave /usr/local/bin/redis-check-aof redis-check-aof /usr/local/redis/${version}/bin/redis-check-aof \
+  --slave /usr/local/bin/redis-check-dump redis-check-dump /usr/local/redis/${version}/bin/redis-check-dump \
+  --slave /usr/local/bin/redis-cli redis-cli /usr/local/redis/${version}/bin/redis-cli
+sudo cp ./redis.conf /etc/redis.conf
+sudo cp ./redis.ini /etc/supervisor.d/redis.ini
+sudo supervisorctl reread
+sudo supervisorctl add redis
+
+
+
