@@ -79,5 +79,9 @@ sudo cp ./redis.ini /etc/supervisor.d/redis.ini
 sudo supervisorctl reread
 sudo supervisorctl add redis
 
+2016.6.21
+http://www.fullstackpython.com/
+
+
 
 
