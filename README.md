@@ -82,6 +82,8 @@ sudo supervisorctl add redis
 2016.6.21
 http://www.fullstackpython.com/
 
+2016.6.22
+http://www.csdn.net/article/2014-03-31/2819057-redis-journey-how-to-beyond-sql
 
 
 
