@@ -88,4 +88,4 @@ http://www.csdn.net/article/2014-03-31/2819057-redis-journey-how-to-beyond-sql
 2016.7.2
 http://blog.jobbole.com/58003/  4个Linux服务器监控工具
 https://pypi.python.org/pypi/Glances/
-
+http://www.tecmint.com/glances-an-advanced-real-time-system-monitoring-tool-for-linux/
