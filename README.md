@@ -89,3 +89,6 @@ http://www.csdn.net/article/2014-03-31/2819057-redis-journey-how-to-beyond-sql
 http://blog.jobbole.com/58003/  4个Linux服务器监控工具
 https://pypi.python.org/pypi/Glances/
 http://www.tecmint.com/glances-an-advanced-real-time-system-monitoring-tool-for-linux/
+
+2017.7.29
+https://juejin.im/entry/58feac9d8d6d810058a33a6f 棋牌游戏服务器架构: 总体设计
