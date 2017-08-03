@@ -92,3 +92,7 @@ http://www.tecmint.com/glances-an-advanced-real-time-system-monitoring-tool-for-
 
 2017.7.29
 https://juejin.im/entry/58feac9d8d6d810058a33a6f 棋牌游戏服务器架构: 总体设计
+
+2017.8.3
+http://book.pythontips.com/en/latest/index.html 开源python书籍
+http://blog.csdn.net/x_r_su/article/details/54731558?locationNum=12&fps=1 python进阶必读汇总
