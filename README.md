@@ -98,3 +98,6 @@ http://book.pythontips.com/en/latest/index.html 开源python书籍
 http://blog.csdn.net/x_r_su/article/details/54731558?locationNum=12&fps=1 python进阶必读汇总
 http://cuiqingcai.com/4320.html blog
 https://hungys.xyz/ 
+
+2017.8.4
+https://github.com/Microsoft/vscode-tips-and-tricks
