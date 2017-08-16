@@ -127,4 +127,5 @@ https://www.gitbook.com/book/zhongsp/typescript-handbook/details
 
 2017.8.16
 https://github.com/PyCQA/pycodestyle/issues/476  #noqa meaning
+https://stackoverflow.com/questions/22190403/how-could-i-use-requests-in-asyncio 
 
