@@ -125,3 +125,6 @@ https://imququ.com/post/http2-resource.html
 https://tools.keycdn.com/http2-test
 https://www.gitbook.com/book/zhongsp/typescript-handbook/details
 
+2017.8.16
+https://github.com/PyCQA/pycodestyle/issues/476  #noqa meaning
+
