@@ -150,3 +150,5 @@ To update setuptools and pip between pypy releases, run:
 See: https://docs.brew.sh/Homebrew-and-Python.html
 -----------------------------------------------------
 
+http://sdiehl.github.io/gevent-tutorial/#subprocess
+
