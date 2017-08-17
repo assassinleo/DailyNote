@@ -130,3 +130,23 @@ https://github.com/PyCQA/pycodestyle/issues/476  #noqa meaning
 https://stackoverflow.com/questions/22190403/how-could-i-use-requests-in-asyncio 
 https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html
 
+2017.8.17
+
+A "distutils.cfg" has been written to:
+  /usr/local/opt/pypy/libexec/lib-python/2.7/distutils
+specifying the install-scripts folder as:
+  /usr/local/share/pypy
+
+If you install Python packages via "pypy setup.py install", easy_install_pypy,
+or pip_pypy, any provided scripts will go into the install-scripts folder
+above, so you may want to add it to your PATH *after* /usr/local/bin
+so you don't overwrite tools from CPython.
+
+Setuptools and pip have been installed, so you can use easy_install_pypy and
+pip_pypy.
+To update setuptools and pip between pypy releases, run:
+    pip_pypy install --upgrade pip setuptools
+
+See: https://docs.brew.sh/Homebrew-and-Python.html
+-----------------------------------------------------
+
