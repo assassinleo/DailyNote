@@ -151,4 +151,5 @@ See: https://docs.brew.sh/Homebrew-and-Python.html
 -----------------------------------------------------
 
 http://sdiehl.github.io/gevent-tutorial/#subprocess
+http://www.cnblogs.com/ajianbeyourself/p/3970603.html 使用gevent提高IO繁忙型wsgi服务的并发量（转）
 
