@@ -189,3 +189,4 @@ docker run username/repository:tag                   # Run image from a registry
 postgres=#alter user postgres with password 'new password';
 postgres=#\q
 
+http://www.kmeiju.net/archives/5541.html  got
