@@ -181,3 +181,11 @@ docker tag <image> username/repository:tag  # Tag <image> for upload to registry
 docker push username/repository:tag            # Upload tagged image to registry
 docker run username/repository:tag                   # Run image from a registry
 
+2017.8.21
+修改账户密码
+1.Linux环境下
+#su  postgres 
+-bash-3.2$psql -U postgres 
+postgres=#alter user postgres with password 'new password';
+postgres=#\q
+
