@@ -190,3 +190,6 @@ postgres=#alter user postgres with password 'new password';
 postgres=#\q
 
 http://www.kmeiju.net/archives/5541.html  got
+
+2017.8.23
+https://github.com/shihyu/python_ebook
