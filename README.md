@@ -210,3 +210,5 @@ intellij idea 2017
 　　http://idea.iteblog.com/key.php
 
 以上方法验证均可以
+
+https://panxl6.gitbooks.io/kotlin-in-action-in-chinese/
