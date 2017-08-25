@@ -198,3 +198,15 @@ https://github.com/shihyu/python_ebook
 https://eastlakeside.gitbooks.io/interpy-zh/content/
 https://mg.pov.lt/objgraph/ 内存泄漏工具
 https://stackoverflow.com/questions/556405/what-do-real-user-and-sys-mean-in-the-output-of-time1
+
+2017.8.26
+intellij idea 2017
+1. 到网站 http://idea.lanyus.com/ 获取注册码。
+
+2.填入下面的license server:
+
+　　http://intellij.mandroid.cn/
+　　http://idea.imsxm.com/
+　　http://idea.iteblog.com/key.php
+
+以上方法验证均可以
