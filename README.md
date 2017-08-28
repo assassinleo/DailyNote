@@ -221,3 +221,4 @@ https://spring.io/blog/2016/02/15/developing-spring-boot-applications-with-kotli
 
 2017.8.28
 http://linux.linuxidc.com/  resourse download 
+aegisub 字幕软件
