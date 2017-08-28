@@ -218,3 +218,6 @@ https://www.kotlincn.net/docs/reference/
 https://slacklist.info/?utm_source=next.36kr.com
 
 https://spring.io/blog/2016/02/15/developing-spring-boot-applications-with-kotlin
+
+2017.8.28
+http://linux.linuxidc.com/  resourse download 
