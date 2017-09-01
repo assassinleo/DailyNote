@@ -225,3 +225,6 @@ aegisub 字幕软件
 
 2017.8.29
 https://kotlintc.com/articles/431
+
+2017.9.1
+http://jsbeautifier.org/
