@@ -231,3 +231,6 @@ http://jsbeautifier.org/
 https://bitbucket.org/richardpenman/browsercookie
 https://github.com/python-mechanize/mechanize
 https://github.com/scrapinghub/portia
+
+2017.9.2
+https://jakevdp.github.io/PythonDataScienceHandbook/
