@@ -234,3 +234,6 @@ https://github.com/scrapinghub/portia
 
 2017.9.2
 https://jakevdp.github.io/PythonDataScienceHandbook/
+
+2017.9.4
+http://ialloc.org/posts/2017/09/03/fluentpython-notes/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
