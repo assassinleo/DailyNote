@@ -237,3 +237,6 @@ https://jakevdp.github.io/PythonDataScienceHandbook/
 
 2017.9.4
 http://ialloc.org/posts/2017/09/03/fluentpython-notes/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
+2017.9.5
+https://mp.weixin.qq.com/s?__biz=MzAwNDc0MTUxMw==&mid=2649639006&idx=1&sn=8d23ab5265f429f25332487332284b86#rd
