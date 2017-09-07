@@ -240,3 +240,7 @@ http://ialloc.org/posts/2017/09/03/fluentpython-notes/?hmsr=toutiao.io&utm_mediu
 
 2017.9.5
 https://mp.weixin.qq.com/s?__biz=MzAwNDc0MTUxMw==&mid=2649639006&idx=1&sn=8d23ab5265f429f25332487332284b86#rd
+
+2017.9.7
+https://zhuanlan.zhihu.com/p/25572330 。PyTorch深度学习：60分钟入门(Translation)
+https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/
