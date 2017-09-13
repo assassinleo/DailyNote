@@ -244,3 +244,8 @@ https://mp.weixin.qq.com/s?__biz=MzAwNDc0MTUxMw==&mid=2649639006&idx=1&sn=8d23ab
 2017.9.7
 https://zhuanlan.zhihu.com/p/25572330 。PyTorch深度学习：60分钟入门(Translation)
 https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/
+
+2017.9.13
+https://developer.github.com/v4/guides/
+https://github.com/graphql-python/graphene
+http://blog.leapoahead.com/2015/09/06/understanding-jwt/
