@@ -249,3 +249,6 @@ https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/
 https://developer.github.com/v4/guides/
 https://github.com/graphql-python/graphene
 http://blog.leapoahead.com/2015/09/06/understanding-jwt/
+
+2017.9.14
+http://maccrack.net/paragon-ntfs-crack/
