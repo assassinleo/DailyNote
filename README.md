@@ -255,3 +255,6 @@ http://maccrack.net/paragon-ntfs-crack/
 http://shzhangji.com/cnblogs/2017/09/13/apache-beam-quick-start-with-python/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
 https://shadowsocks.org/en/index.html
+http://www.jianshu.com/p/956a34daff98  Mac下如何usb调试Android真机
+https://shadowsocks.org/en/index.html
+https://shadowsocks.org/en/index.html
