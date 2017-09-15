@@ -258,3 +258,10 @@ https://shadowsocks.org/en/index.html
 http://www.jianshu.com/p/956a34daff98  Mac下如何usb调试Android真机
 https://shadowsocks.org/en/index.html
 https://shadowsocks.org/en/index.html
+
+2017.9.15
+install powerline
+http://webmedia.blog.163.com/blog/static/4166950201232634127501/
+http://www.cnblogs.com/kaiye/p/5004364.html
+http://www.jianshu.com/p/68ef9d2e1653
+https://github.com/oh-my-fish/theme-bobthefish
