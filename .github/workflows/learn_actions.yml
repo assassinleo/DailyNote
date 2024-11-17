@@ -10,7 +10,7 @@ jobs:
   printInfoJob:
     runs-on: ubuntu-latest
     steps:
-      - echo "Hello GitHub Actions!"
+      - run: echo ":wave: Hello GitHub Actions!"
 
       - name: Checkout
         uses: actions/checkout@v4.2.2
