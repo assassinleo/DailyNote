@@ -1,0 +1,21 @@
+name: Learn Actions
+
+on: 
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  printInfoJob:
+    runs-on: ubuntu-latest
+    steps:
+      - echo "Hello GitHub Actions!"
+
+      - name: Checkout
+        uses: actions/checkout@v4.2.2
+
+      - name: List files in the repository
+        run: |
+          echo "The repository ${{ github.repository }} contains the following files: "
+          tree
